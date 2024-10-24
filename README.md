@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chathura Sandaruwan</h1>
 <h3 align="center">A passionate programmer from Sri Lanka</h3>
-
+<p align="center"> 
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47sptbnhxv1x8ro5lx0p27resl5egmcxlxjoga1k8t&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="waving GIF" style="width: 800px; height: 400px;" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="chathurasandaruwan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathurasandaruwan" alt="chathurasandaruwan" /></a> </p>
